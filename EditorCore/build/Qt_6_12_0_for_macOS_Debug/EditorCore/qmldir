@@ -1,0 +1,6 @@
+module EditorCore
+typeinfo appEditorCore.qmltypes
+prefer :/qt/qml/EditorCore/
+Main 254.0 Main.qml
+depends QtQuick
+

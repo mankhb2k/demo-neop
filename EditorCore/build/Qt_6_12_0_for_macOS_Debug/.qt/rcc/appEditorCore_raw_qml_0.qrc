@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/EditorCore/">
+    <file alias="Main.qml">/Users/macairm1/Project/demo-neop/EditorCore/Main.qml</file>
+  </qresource>
+</RCC>
+

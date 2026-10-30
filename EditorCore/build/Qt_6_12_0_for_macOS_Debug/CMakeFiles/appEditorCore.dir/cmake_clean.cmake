@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appEditorCore_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_EditorCore.cpp"
+  ".rcc/qmlcache/appEditorCore_Main_qml.cpp"
+  ".rcc/qmlcache/appEditorCore_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appEditorCore_qmlcache_loader.cpp"
+  "CMakeFiles/appEditorCore_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appEditorCore_autogen.dir/ParseCache.txt"
+  "appEditorCore_autogen"
+  "CMakeFiles/appEditorCore.dir/appEditorCore_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/appEditorCore.dir/appEditorCore_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/appEditorCore.dir/appeditorcore_qmltyperegistrations.cpp.o"
+  "CMakeFiles/appEditorCore.dir/appeditorcore_qmltyperegistrations.cpp.o.d"
+  "CMakeFiles/appEditorCore.dir/build/Qt_6_12_0_for_macOS_Debug/.qt/rcc/qrc_appEditorCore_raw_qml_0.cpp.o"
+  "CMakeFiles/appEditorCore.dir/build/Qt_6_12_0_for_macOS_Debug/.qt/rcc/qrc_appEditorCore_raw_qml_0.cpp.o.d"
+  "CMakeFiles/appEditorCore.dir/build/Qt_6_12_0_for_macOS_Debug/.qt/rcc/qrc_qmake_EditorCore.cpp.o"
+  "CMakeFiles/appEditorCore.dir/build/Qt_6_12_0_for_macOS_Debug/.qt/rcc/qrc_qmake_EditorCore.cpp.o.d"
+  "CMakeFiles/appEditorCore.dir/build/Qt_6_12_0_for_macOS_Debug/.rcc/qmlcache/appEditorCore_Main_qml.cpp.o"
+  "CMakeFiles/appEditorCore.dir/build/Qt_6_12_0_for_macOS_Debug/.rcc/qmlcache/appEditorCore_Main_qml.cpp.o.d"
+  "CMakeFiles/appEditorCore.dir/build/Qt_6_12_0_for_macOS_Debug/.rcc/qmlcache/appEditorCore_qmlcache_loader.cpp.o"
+  "CMakeFiles/appEditorCore.dir/build/Qt_6_12_0_for_macOS_Debug/.rcc/qmlcache/appEditorCore_qmlcache_loader.cpp.o.d"
+  "CMakeFiles/appEditorCore.dir/main.cpp.o"
+  "CMakeFiles/appEditorCore.dir/main.cpp.o.d"
+  "CMakeFiles/appEditorCore.dir/playback.cpp.o"
+  "CMakeFiles/appEditorCore.dir/playback.cpp.o.d"
+  "EditorCore/appEditorCore.qmltypes"
+  "appEditorCore.app/Contents/MacOS/appEditorCore"
+  "appEditorCore.pdb"
+  "appEditorCore_autogen/mocs_compilation.cpp"
+  "appEditorCore_autogen/timestamp"
+  "appeditorcore_qmltyperegistrations.cpp"
+  "meta_types/appEditorCore_json_file_list.txt"
+  "meta_types/appEditorCore_json_file_list.txt.timestamp"
+  "meta_types/qt6appeditorcore_metatypes.json"
+  "meta_types/qt6appeditorcore_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appEditorCore.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

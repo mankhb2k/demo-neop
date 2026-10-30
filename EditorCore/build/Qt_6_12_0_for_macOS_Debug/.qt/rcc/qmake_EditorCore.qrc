@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/EditorCore">
+    <file alias="qmldir">/Users/macairm1/Project/demo-neop/EditorCore/build/Qt_6_12_0_for_macOS_Debug/EditorCore/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,14 @@
+-rootPath
+/Users/macairm1/Project/demo-neop/EditorCore
+-cmake-output
+-output-file
+/Users/macairm1/Project/demo-neop/EditorCore/build/Qt_6_12_0_for_macOS_Debug/.qt/qml_imports/appEditorCore_conf.cmake
+-importPath
+/Users/macairm1/Project/demo-neop/EditorCore/build/Qt_6_12_0_for_macOS_Debug
+-importPath
+/Users/macairm1/Project/demo-neop/EditorCore/build/Qt_6_12_0_for_macOS_Debug/EditorCore
+-importPath
+/Users/macairm1/Qt/6.12.0/macos/qml
+-qrcFiles
+/Users/macairm1/Project/demo-neop/EditorCore/build/Qt_6_12_0_for_macOS_Debug/.qt/rcc/qmake_EditorCore.qrc
+/Users/macairm1/Project/demo-neop/EditorCore/build/Qt_6_12_0_for_macOS_Debug/.qt/rcc/appEditorCore_raw_qml_0.qrc
